@@ -1,4 +1,7 @@
-## Hi there 👋, I'am Zineddine Lhani 
+# Hi there 👋, I'am Zineddine Lhani 
+
+
+## Information about me 📋✅
 
 - 🔭 I’m currently working on To develop myself in FullStack web (💻</>)
 - 🌱 I’m currently learning programmer, with a foundation in C++ programming.
