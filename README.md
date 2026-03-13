@@ -1,4 +1,11 @@
 
+
+<p align="center">
+  <img src="coding.gif" width="500" />
+</p>
+
+
+
 # Hi there 👋, I'am Zineddine Lhani <br><br><br>
 
 ## Information about me 📋✅<br><br>
