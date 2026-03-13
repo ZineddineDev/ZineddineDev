@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="coding.gif" width="500" />
+  <img src="Programming Animation.gif" width="500" />
 </p>
 
 
