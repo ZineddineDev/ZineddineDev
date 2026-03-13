@@ -16,14 +16,21 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZineddineDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZineddineDev&theme=dark&hide_border=false" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZineddineDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ZineddineDev&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="170px" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ZineddineDev&theme=dark" height="170px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZineddineDev&theme=dark&layout=compact&hide_border=false" width="350px" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZineddineDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
