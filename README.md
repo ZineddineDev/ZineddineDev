@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://lottie.host/52403cb1-cf3b-4841-9494-013620953406/SNo9X6hN0n.gif" width="500" />
-</p>
-
-
 
 # Hi there 👋, I'am Zineddine Lhani <br><br><br>
 
