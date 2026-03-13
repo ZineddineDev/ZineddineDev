@@ -17,6 +17,8 @@
 <a href="https://linkedin.com/in/in/zineddine-lhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zineddine-lhani" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zindin.lhaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zindin.lhaz" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zine_dine_lh?igsh=oxbxy2vzotjlc2dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zine_dine_lh?igsh=oxbxy2vzotjlc2dv" height="30" width="40" /></a>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
